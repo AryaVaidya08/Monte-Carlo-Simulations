@@ -8,8 +8,8 @@ This repository is currently being used to house the various projects and simula
  
 | # | Project | Status |
 |---|---------|--------|
-| 1 | Pi Value Estimation & Visualization | Complete |
-| 2 | Coming Soon | — |
+| 1 | [Pi Value Estimation & Visualization](#1-pi-estimation--simulation-pi-estimation) | Complete |
+| 2 | Coming Soon | —|
 
 ---
 
